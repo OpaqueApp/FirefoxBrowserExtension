@@ -1,0 +1,8 @@
+{
+	"extension_type": "chromane",
+	"mode": "prod",
+	"popup_urls": {
+		"prod": "/pages/app/index.html"
+	},
+	"browser": "chrome"
+}
