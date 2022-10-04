@@ -8,20 +8,6 @@ Firefox browser extension to safely blur sensitive text and values.
 - Submitted 10/6
 - Pending Approval, URL will be added
 
-### Developer Mode
-
-- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
-- Extract locally
-- Open Edge or Chrome Extension settings
-- Select Developer Mode
-- Select "Load unpacked" button
-- Navigate to where you extracted the zip archive
-- Select the folder
-- Select Extension button on menu bar
-- Select eye icon to make Opaque App visible on menu bar
-
-![VisibleExtension](./Images/VisibleExtension.png)
-
 ## Summary
 
 Broad set of options to blur text and values using explicit terms or pattern matching:
@@ -47,19 +33,13 @@ Built-in Quick Select options
 
 Great for screen sharing and screen captures!
 
-If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/ChromiumBrowserExtension/issues)
+If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/FirefoxBrowserExtension/issues)
 
 ### Main page of Opaque App 
 
 Shows the switches used to enable blurring and pattern matching options.
 
 ![Main](./Images/Main.png)
-
-### Side Menu of Opaque App 
-
-Shows the links to our website, contact, and version.
-
-![SideMenu](./Images/SideMenu.png)
 
 ### Example of using RegEx to Blur
 
