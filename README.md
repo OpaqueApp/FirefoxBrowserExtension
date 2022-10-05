@@ -5,8 +5,23 @@ Firefox browser extension to safely blur sensitive text and values.
 
 ### Firefox Extensions Store
 
-- Submitted 10/6
-- Pending Approval, URL will be added
+This installation method provides automatic updates.
+
+- [Firefox Add-on Extensions - Opaque](https://addons.mozilla.org/en-US/firefox/addon/opaqueapp/)
+
+### Self Managed Installation
+
+This installation method uses the same signed extension used in the Firefox store but it will not receive automatic updates.
+
+- Download [Opaque-Firefox-CurrentVersion.xpi](https://github.com/OpaqueApp/FirefoxBrowserExtension/raw/main/Opaque-Chromium-CurrentVersion.xpi)
+- Open Firefox
+- Open menu icon
+- Select Add-ons and Themes
+- Select the gear icon
+- Select Install Add-on From File...
+- Navigate to download location and select open
+- Select Add
+- Select Okay
 
 ## Summary
 
