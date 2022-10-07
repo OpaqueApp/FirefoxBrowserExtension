@@ -1,6 +1,8 @@
 # Opaque Firefox Browser Extension
 Firefox browser extension to safely blur sensitive text and values. 
 
+![Main](C:\Users\paull\OneDrive\Pictures\Typora\README\RegExMarque-1665157413109-1.png)
+
 ## Installation
 
 ### Firefox Extensions Store
@@ -9,7 +11,7 @@ This installation method provides automatic updates.
 
 - [Firefox Add-on Extensions - Opaque](https://addons.mozilla.org/en-US/firefox/addon/opaqueapp/)
 
-### Self Managed Installation
+### Self-managed
 
 This installation method uses the same signed extension used in the Firefox store but it will not receive automatic updates.
 
@@ -54,22 +56,28 @@ If you have any issues or would like to request new features, please let us know
 
 Shows the switches used to enable blurring and pattern matching options.
 
-![Main](./Images/Main.png)
+![Main](C:\Users\paull\OneDrive\Pictures\Typora\README\Intro.png)
 
 ### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
-![RegEx](./Images/RegEx.png)
+![RegEx](C:\Users\paull\OneDrive\Pictures\Typora\README\RegEx-1665156241257-2.png)
 
 ### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
-![PlainText](./Images/PlainText.png)
+![PlainText](C:\Users\paull\OneDrive\Pictures\Typora\README\PlainText-1665156241256-1.png)
 
 ### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
-![GUID](./Images/GUID.png)
+![GUID](C:\Users\paull\OneDrive\Pictures\Typora\README\QuickSelect.png)
+
+### Example of using CSS Properties to Blur
+
+Shows using CSS properties to pattern match and blur values.
+
+![GUID](C:\Users\paull\OneDrive\Pictures\Typora\README\CSS.png)
